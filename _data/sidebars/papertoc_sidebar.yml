@@ -1,0 +1,48 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Table of Contents
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Protecting Software Design
+    output: web, pdf
+    folderitems:
+
+    - title: I. Protecting Software Design
+      url: /paper_ch1.html
+      output: web
+
+    - title: I.A. Patent
+      url: /paper_ch1.html#i-a-patent
+      output: web
+
+    - title: I.B. Copyright
+      url: /paper_ch1.html#i-b-copyright
+      output: web, pdf
+
+    - title: I.C. Patent versus Copyright
+      url: /paper_ch1.html#i-c-patent-versus-copyright
+      output: web, pdf
+
+  - title: Limitations of Intellectual Property
+    output: web, pdf
+
+    folderitems:
+    - title: II. Limitations of Intellectual Property
+      url: 
+      output: web, pdf
