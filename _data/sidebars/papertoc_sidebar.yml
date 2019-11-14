@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Table of Contents
+  product: 
   folders:
 
   - title:
@@ -19,30 +19,38 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Protecting Software Design
+  - title: Table of Contents
     output: web, pdf
     folderitems:
 
     - title: I. Protecting Software Design
-      url: /paper_ch1.html
+      url: /index.html
       output: web
 
-    - title: I.A. Patent
-      url: /paper_ch1.html#i-a-patent
-      output: web
-
-    - title: I.B. Copyright
-      url: /paper_ch1.html#i-b-copyright
-      output: web, pdf
-
-    - title: I.C. Patent versus Copyright
-      url: /paper_ch1.html#i-c-patent-versus-copyright
-      output: web, pdf
-
-  - title: Limitations of Intellectual Property
-    output: web, pdf
-
-    folderitems:
     - title: II. Limitations of Intellectual Property
-      url: 
-      output: web, pdf
+      url: /paper_ch2.html
+      output: web
+
+    - title: III. How to Register Copyright Protection for Computer Programs
+      url: /paper_ch3.html
+      output: web
+
+    - title: IV. Proprietary Software License
+      url: /paper_ch4.html
+      output: web
+
+    - title: V. Open Source Software
+      url: /paper_ch5.html
+      output: web
+
+    - title: VI. Legal Implications of Open Source Software (OSS)
+      url: /paper_ch6.html
+      output: web
+
+    - title: VII. Georgia Gwinnett College Technology Transfer
+      url: /paper_ch7.html
+      output: web
+
+    - title: VIII. Other Forms
+      url: /paper_ch8.html
+      output: web
