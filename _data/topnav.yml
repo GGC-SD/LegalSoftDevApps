@@ -3,6 +3,8 @@
 topnav:
 - title: Topnav
   items:
+    - title: Paper
+      url: /index.html
     - title: Forms
       url: /forms_landing_page.html
     - title: About

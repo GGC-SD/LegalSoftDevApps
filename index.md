@@ -1,17 +1,11 @@
 ---
-title: CONTRACTS & LEGAL ISSUES SURROUNDING SOFTWARE DEVELOPMENT APPLICATIONS
+title: I. Protecting Software Design
 sidebar: papertoc_sidebar
 toc: true
 permalink: index.html
 ---
 
 <!-- Content Column -->
-<div class="post-header">
-  <h1 class="post-title-main">I. Protecting Software Design</h1>
-</div>
-
-
-
 <div class="post-content">
   <div class="col-lg-12">
     <div>
