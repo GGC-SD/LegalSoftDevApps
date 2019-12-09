@@ -7,7 +7,7 @@ repository: GGC-SD/LegalSoftDevApps
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: GGC Forms For Software Development Applications
+topnav_title: Resources for Software Protection and Licensing
 # this appears on the top navigation bar next to the home button
 
 site_title: GGC SD Forms
